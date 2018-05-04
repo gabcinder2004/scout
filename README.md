@@ -1,4 +1,4 @@
-![](http://res.cloudinary.com/hashnode/image/upload/w_200/v1466495663/static_imgs/mern/v2/mernio-logo.png)
+<!-- ![](http://res.cloudinary.com/hashnode/image/upload/w_200/v1466495663/static_imgs/mern/v2/mernio-logo.png)
 
 # mern-starter
 ![title](https://travis-ci.org/Hashnode/mern-starter.svg?branch=v2.0.0)
@@ -253,4 +253,4 @@ In development, after all scripts get loaded, react loads the CSS as BLOBs. That
 This warning is visible only on development and totally harmless. This occurs to hash difference in `react-router`. To solve it, react router docs asks you to use `match` function. If we use `match`, `react-hot-reloader` stops working.
 
 ## License
-MERN is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+MERN is released under the [MIT License](http://www.opensource.org/licenses/MIT). -->
